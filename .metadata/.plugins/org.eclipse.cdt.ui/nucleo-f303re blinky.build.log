@@ -1,0 +1,10 @@
+16:43:04 **** Incremental Build of configuration Debug for project nucleo-f303re blinky ****
+make -j4 all 
+arm-none-eabi-size   nucleo-f303re\ blinky.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11648	     20	   1700	  13368	   3438	nucleo-f303re blinky.elf
+Finished building: default.size.stdout
+ 
+
+16:43:05 Build Finished. 0 errors, 0 warnings. (took 991ms)
+
